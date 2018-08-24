@@ -25,3 +25,7 @@ function dec(a) {
 function  makeInt(n) {
 return (parseFloat ('n',100))
 }
+
+function makeInt(n) {
+  return (parseInt('n', 919))
+}
