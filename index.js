@@ -29,3 +29,5 @@ return (parseFloat ('n',100))
 function makeInt(n) {
   return (parseInt('n', 919))
 }
+
+parseInt('nonsense!',10) 
