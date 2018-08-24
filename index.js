@@ -30,4 +30,4 @@ function makeInt(n) {
   return (parseInt('n', 919))
 }
 
-parseInt('nonsense!',10) 
+parseInt('2',10) 
