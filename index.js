@@ -26,6 +26,7 @@ function makeInt(n) {
   return (parseInt)
 }
 
-function makeInt() {
-  return (parseInt())
+function  makeInt(n) {
+  return (parseInt ('n',100))
 }
+
