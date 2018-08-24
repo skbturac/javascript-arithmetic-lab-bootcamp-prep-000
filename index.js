@@ -22,7 +22,4 @@ function dec(a) {
  return (--a)
 }
 
-//function  makeInt(n) {
-//return (parseFloat ('n',100))
-//}
 
